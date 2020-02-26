@@ -1,0 +1,23 @@
+{
+  "name": "novel_ibook",
+  "version": "1.0.0",
+  "description": "这是Github制作的电子书。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wangyuejiao/novel_ibook.git"
+  },
+  "keywords": [],
+  "author": "wangyuejiao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyuejiao/novel_ibook/issues"
+  },
+  "homepage": "https://github.com/wangyuejiao/novel_ibook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
